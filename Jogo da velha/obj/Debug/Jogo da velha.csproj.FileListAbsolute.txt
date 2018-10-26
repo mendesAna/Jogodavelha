@@ -1,0 +1,10 @@
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.pdb
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csprojAssemblyReference.cache
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Form1.resources
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.GenerateResource.cache
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.exe
+C:\Users\AnaBe\Documents\Nova pasta\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.pdb
